@@ -1,0 +1,10 @@
+body{
+  overflow-x: hidden;
+  max-width: 1550px;
+  margin: auto;
+  
+}
+
+.Card :hover{
+background-color: #7421B0;
+}
